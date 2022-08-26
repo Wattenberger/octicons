@@ -1,7 +1,5 @@
 ![octicons cover light](https://user-images.githubusercontent.com/54012/138925195-5779c51d-ff8c-4264-a914-e64f4843893d.png#gh-light-mode-only)
-![octicons cover dark](https://user-images.githubusercontent.com/54012/138925203-80e1afa1-ba54-4731-9525-3c41186663f9.png#gh-dark-mode-only)
-<br>
-<br>
+
 <h1 align="center">Octicons</h1>
 
 <p align="center">Octicons are a set of SVG icons built by GitHub for GitHub.</p>
@@ -17,28 +15,34 @@
 
 ## Libraries
 
-This repository contains several libraries. Each of them is in the `lib/` folder and gives access to Octicons on a different platform/language.
+This repository contains several **libraries**. Each of them is in the `lib/` folder and gives access to Octicons on a different platform/language.
 
 ### JavaScript
 
 The octicons node.js library is the main JavaScript library. With [a JavaScript API](/lib/octicons_node/README.md) that can be used in a variety of applications.
 
-| Package                                                                              | Version                                                                                                                         |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| **[@primer/octicons](/lib/octicons_node)** <br />Node.js package with JavaScript API | [![npm version](https://img.shields.io/npm/v/@primer/octicons.svg)](https://www.npmjs.org/package/@primer/octicons)             |
-| **[@primer/octicons-react](/lib/octicons_react)** <br />React Octicons components    | [![npm version](https://img.shields.io/npm/v/@primer/octicons-react.svg)](https://www.npmjs.org/package/@primer/octicons-react) |
-| **[@primer/styled-octicons](/lib/octicons_styled)** <br />React Octicons components with Styled System props    | [![npm version](https://img.shields.io/npm/v/@primer/styled-octicons.svg)](https://www.npmjs.org/package/@primer/styled-octicons) |
+**[@primer/octicons](/lib/octicons_node)**   [![npm version](https://img.shields.io/npm/v/@primer/octicons.svg)](https://www.npmjs.org/package/@primer/octicons)
+Node.js package with JavaScript API
+
+**[@primer/octicons-react](/lib/octicons_react)**   [![npm version](https://img.shields.io/npm/v/@primer/octicons-react.svg)](https://www.npmjs.org/package/@primer/octicons-react)
+React Octicons components
+
+**[@primer/styled-octicons](/lib/octicons_styled)**   [![npm version](https://img.shields.io/npm/v/@primer/styled-octicons.svg)](https://www.npmjs.org/package/@primer/styled-octicons)
+React Octicons components with Styled System props
 
 
 ### Ruby
 
-| Package                                                                       | Version                                                                                                       |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **[octicons](/lib/octicons_gem)** <br />Ruby gem with Ruby API                | [![Gem version](https://img.shields.io/gem/v/octicons.svg)](https://rubygems.org/gems/octicons)               |
-| [octicons_helper](/lib/octicons_helper)<br />Rails helper for using octicons  | [![Gem version](https://img.shields.io/gem/v/octicons_helper.svg)](https://rubygems.org/gems/octicons_helper) |
-| [jekyll-octicons](/lib/octicons_jekyll)<br />Jekyll plugin for using octicons | [![Gem version](https://img.shields.io/gem/v/jekyll-octicons.svg)](https://rubygems.org/gems/jekyll-octicons) |
+**[octicons](/lib/octicons_gem)**    [![Gem version](https://img.shields.io/gem/v/octicons.svg)](https://rubygems.org/gems/octicons)
+Ruby gem with Ruby API
+ 
+[**octicons_helper**](/lib/octicons_helper)   [![Gem version](https://img.shields.io/gem/v/octicons_helper.svg)](https://rubygems.org/gems/octicons_helper)
+Rails helper for using octicons
+ 
+[**jekyll-octicons**](/lib/octicons_jekyll)  [![Gem version](https://img.shields.io/gem/v/jekyll-octicons.svg)](https://rubygems.org/gems/jekyll-octicons)
+Jekyll plugin for using octicons
 
-## Contributing
+# Contributing
 
 ### Feedback, ideas, and bug reports
 
