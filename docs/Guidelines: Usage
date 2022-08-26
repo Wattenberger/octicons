@@ -1,7 +1,3 @@
----
-title: Usage guidelines
----
-
 import {Caption, Do, Dont} from '@primer/gatsby-theme-doctocat'
 import {Grid, Flex, Box} from '@primer/components'
 
