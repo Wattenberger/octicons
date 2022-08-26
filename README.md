@@ -3,7 +3,14 @@
 <h1 style="text-align:center">Octicons</h1>
 <p align="center">Octicons are a set of SVG icons built by GitHub for GitHub.</p>
 <p style="display: flex; justify-content: center"><img src="https://github.com/primer/octicons/actions/workflows/ci.yml/badge.svg?branch=main&event=push" style="margin-right: 0.3em" /><img src="https://github.com/primer/octicons/actions/workflows/publish.yml/badge.svg" /></p>
-  
+
+<BlockComponent
+  block={{"owner":"Wattenberger","repo":"blocks","id":"images","type":"folder"}}
+context={{"repo":"octicons","owner":"Wattenberger","path":"icons","sha":"HEAD","file":"README.md"}}
+height={581}
+/>
+
+
 ## Libraries
 
 This repository contains several **libraries**. Each of them is in the `lib/` folder and gives access to Octicons on a different platform/language.
