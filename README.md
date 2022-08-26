@@ -9,11 +9,11 @@
 context={{"repo":"octicons","owner":"Wattenberger","path":"icons","sha":"HEAD","file":"README.md"}}
 height={581}
 />
-
+Learn how to properly use them with our Guidelines in the `/docs` folder.
 
 ## Libraries
 
-This repository contains several **libraries**. Each of them is in the `lib/` folder and gives access to Octicons on a different platform/language.
+This repository contains several **libraries**. Each of them is in the `lib/` folder and gives access to Octicons on a different platform/language. Read more on how to use them in the `/docs` folder.
 
 ### JavaScript
 
