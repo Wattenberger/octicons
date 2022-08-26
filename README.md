@@ -1,18 +1,9 @@
 ![octicons cover light](https://user-images.githubusercontent.com/54012/138925195-5779c51d-ff8c-4264-a914-e64f4843893d.png#gh-light-mode-only)
 
-<h1 align="center">Octicons</h1>
-
+<h1 style="text-align:center">Octicons</h1>
 <p align="center">Octicons are a set of SVG icons built by GitHub for GitHub.</p>
-
-<p align="center">
-  <a aria-label="build status" href="https://github.com/primer/octicons/actions/workflows/ci.yml">
-    <img alt="" src="https://github.com/primer/octicons/actions/workflows/ci.yml/badge.svg?branch=main&event=push">
-  </a>
-  <a aria-label="publish status" href="https://github.com/primer/octicons/actions/workflows/publish.yml">
-    <img alt="" src="https://github.com/primer/octicons/actions/workflows/publish.yml/badge.svg">
-  </a>
-</p>
-
+<p style="display: flex; justify-content: center"><img src="https://github.com/primer/octicons/actions/workflows/ci.yml/badge.svg?branch=main&event=push" style="margin-right: 0.3em" /><img src="https://github.com/primer/octicons/actions/workflows/publish.yml/badge.svg" /></p>
+  
 ## Libraries
 
 This repository contains several **libraries**. Each of them is in the `lib/` folder and gives access to Octicons on a different platform/language.
